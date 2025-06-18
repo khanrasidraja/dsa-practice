@@ -1,11 +1,3 @@
-dnbm
-adnba
-qwem
-WBQWM
-sdmn
-msn c
-amns
-asd 
-as md
-mnasd 
-asdn
+Name : Rashid Raja Khan
+Degree :  MCA
+Skills : Java, springboot, hibernate, DSA, AWS cloud, CI/CD, DOcker, React, Javascript, Html, Css
