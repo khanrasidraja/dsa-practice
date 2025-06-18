@@ -1,0 +1,29 @@
+[33mcommit 882d6831a681bbfc534f7b070a67e554cc84a209[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mchanges[m[33m, [m[1;31morigin/changes[m[33m)[m
+Author: Rasid Raja Khan <khanrasidraja@gmail.com>
+Date:   Wed Jun 18 11:42:03 2025 +0530
+
+    Learning Branching in GIT
+
+[33mcommit 97d788de9d7ada550721a822112fcfcd5de2b2af[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Rasid Raja Khan <khanrasidraja@gmail.com>
+Date:   Wed Jun 18 11:31:53 2025 +0530
+
+    added some lines in name.txt
+
+[33mcommit 564432b8f5ccbab6cf676ad3a5525f100fc291be[m
+Author: Rasid Raja Khan <khanrasidraja@gmail.com>
+Date:   Wed Jun 18 10:41:47 2025 +0530
+
+    restored name.txt
+
+[33mcommit db8ab43d2704fdf9bf9f123de40cad09bb9ae9de[m
+Author: Rasid Raja Khan <khanrasidraja@gmail.com>
+Date:   Wed Jun 18 10:32:19 2025 +0530
+
+    name.txt fil  added
+
+[33mcommit 57326ae0d8754b623c157a3dbc00214ab527dde5[m
+Author: Rasid Raja Khan <khanrasidraja@gmail.com>
+Date:   Tue Jun 17 23:28:12 2025 +0530
+
+    new file added
