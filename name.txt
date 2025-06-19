@@ -1,11 +1,4 @@
-dnbm
-adnba
-qwem
-WBQWM
-sdmn
-msn c
-amns
-asd 
-as md
-mnasd 
-asdn
+Name : Rashid Khan
+Course : MCA
+Looking for job as a Software Developer/Engineer
+Skills : Java, JavaScript, HTML, CSS, ReactJs, MongoDB, NodeJS, ExpressJS, TailwindCss, DataStructures and Algorithms
